@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676489494 source:c:\users\asus\desktop\cpp files\bank management test 1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<windows.h>
+

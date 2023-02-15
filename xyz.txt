@@ -1,0 +1,7 @@
+1 1180255Abhay Jaggi|450000VPO Nanaon,palampur,Kangra,HP|
+2 1180256Swapnil Dhiman|45000Baniyan khopa,Baijnath,Kangra,HP|
+3 1180257Charchit Bhardwaj|54000Gaziabaad,Uttar pradesh|
+4 1180258Karanpal singh|501001Pillibhit,Uttar pradesh|
+5 1180259tavish dharmani|10000000pangi,chamba,HP|
+6 1180260shorav gidra|1001000999rajasthan|
+7 1180261Ankush Thakur|0NITH KBH D-311|
